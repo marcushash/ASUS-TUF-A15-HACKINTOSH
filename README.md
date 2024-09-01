@@ -1,7 +1,5 @@
 # Hackintosh Installation Guide for ASUS TUF A15 🖥️🍏
 
-This detailed guide offers step-by-step instructions for installing macOS Sonoma on the ASUS TUF A15 using a customized EFI folder. 📘✨ It includes comprehensive hardware specifications, pre-installation and installation steps, as well as post-installation procedures to ensure a smooth setup. 🛠️💻
-
 ## Disclaimer ⚠️
 
 **Important:** The EFI provided in this guide is a proof of concept. It has several issues that may not be fixed, and many components have not been fully tested. **Do not use this EFI as your daily driver.** For a stable Hackintosh setup, create your own EFI tailored to your specific hardware configuration. The author is not responsible for any damage caused by the contents of this guide. Proceed at your own risk.
