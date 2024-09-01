@@ -60,15 +60,18 @@
 
 ## Pre-Installation Steps 🛠️
 
-1. **Flash the Olarilla Image Using TransMac** 🗂️:
+1. **Download the Olarilla Image of macOS Sonoma** 🌐:
+   - Obtain the Olarilla image from the [official Olarilla website](https://olarila.com/topic/6278-olarila-vanilla-images-macos-installer/).
+
+2. **Flash the Olarilla Image Using TransMac** 🗂️:
    - Format a USB drive as `Mac OS Extended (Journaled)` using TransMac, and restore the Olarilla image to the USB drive.
 
-2. **Prepare the EFI Folder** 📂:
+3. **Prepare the EFI Folder** 📂:
    - Download the EFI folder from the GitHub repository: [ASUS-TUF-A15-HACKINTOSH](https://github.com/marcushash/ASUS-TUF-A15-HACKINTOSH).
    - Use [MiniTool Partition Wizard](https://www.partitionwizard.com/) to rename the EFI partition so that it can be detected by Windows.
    - Use [Explorer++](https://explorerplusplus.com/) to copy the EFI folder from the USB drive to the EFI partition of the USB drive.
 
-3. **Configure BIOS/UEFI Settings** 🗂️:
+4. **Configure BIOS/UEFI Settings** 🗂️:
    - Insert the USB drive with the EFI folder into your ASUS TUF A15.
    - Restart the laptop and enter BIOS/UEFI settings (usually by pressing `F2` or `Del` during startup).
    - Adjust the following settings:
@@ -79,7 +82,7 @@
      - Set `CSM` (Compatibility Support Module) to `Disabled` if available.
    - Save and exit BIOS.
 
-4. **Boot from USB** 🖥️:
+5. **Boot from USB** 🖥️:
    - Restart the laptop and boot from the USB drive containing the EFI folder (usually by pressing `F8`, `F11`, or `Esc` during startup and selecting the USB drive).
 
 ## Installation Steps 🚀
