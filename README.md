@@ -115,11 +115,12 @@
 - **Compatibility:** Not all hardware components may be fully compatible with macOS. Check community forums for similar hardware reports.
 - **Updates:** Be cautious with system updates as they may affect compatibility. Research before applying updates.
 
-## Support Me 🙏
+## Support 🙏
 
 If you find this guide helpful and wish to support my work, consider buying me a coffee:
 
-[![Buy me a coffee](https://storage.ko-fi.com/cdn/userpics/14849327/ko-fi-button.png)](https://ko-fi.com/marcushash)
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/marcushash"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" /></a></p><br><br>
 
 ## Resources 📚
 
